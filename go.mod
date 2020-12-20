@@ -1,0 +1,1 @@
+module "github.com/maurofran/aoc2020"
